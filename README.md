@@ -31,6 +31,6 @@ MendelianRandomization R package
 UK Biobank data (restricted access)
 
 ### Acknowledgement
-This project is a team collaboration as part of the Translational Data Science module (Teammates: Amin Moghaddam, Hanh Lan Bui, Lucie Frechin, Riya Nagar). It was carried out under the supervision of Dr. Verena Zuber and Dr. Roopal Desai.
+This project is a team collaboration as part of the Translational Data Science module (Teammates: Amin Moghaddam, Hanh Lan Bui, Lucie Frechin, Riya Nagar). It was carried out under the supervision of Dr. Verena Zuber and Dr. Roopal Desai. Their expertise, insightful suggestions, and unwavering support were instrumental in shaping the direction of our work and ensuring the successful completion of this project.
 
 Special thanks to Rin Wada and Joel Heller for their invaluable support in the technical aspects of the project.

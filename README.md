@@ -22,8 +22,8 @@ All relevant R code for data processing, MR analysis, and statistical modelling 
 ### Conclusion
 The study highlights the relevance of the IL-33/ST2 axis in dementia, particularly in Alzheimer's disease. However, the results suggest no direct genetic determination of dementia risk via this pathway. Further research, including larger and more diverse datasets, is required to fully elucidate this relationship.
 
-### Full Reports and Presentation
-[Full Reports](Project_Presentation_Slides.pdf) and [Presentation](Project_Report.pdf).
+### Project Report and Presentation
+Here are detailed [Project Report](Project_Report.pdf) and [Presentation](Project_Presentation_Slides.pdf).
 
 ### Requirements
 R
